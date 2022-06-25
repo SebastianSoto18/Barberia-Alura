@@ -179,6 +179,11 @@ form label, form legend{
     text-align: center;
 }
 
+.mapa-contenido{
+    width: 940px;
+    margin: 0 auto;
+}
+
 .contenido-dif{
     width: 640px;
     margin: 0 auto;
@@ -220,3 +225,5 @@ form label, form legend{
     width: 560px;
     margin: 3em auto;
 }
+
+
